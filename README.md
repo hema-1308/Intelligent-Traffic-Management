@@ -11,7 +11,7 @@ This feature uses real-time vehicle detection to adjust traffic light timings at
 This component uses sensors to detect and display available parking spots. It aims to reduce parking-related congestion by guiding drivers to open parking spaces, reducing the time spent searching for parking.
 Technology Stack
 # Programming Languages: Python
-Libraries/Frameworks: OpenCV (for vehicle detection), [Other Libraries if applicable]
+Libraries/Frameworks: OpenCV (for vehicle detection)
 
 ## Future Enhancements
 We plan to expand the intelligent traffic management system with additional features:
